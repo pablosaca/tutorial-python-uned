@@ -9,6 +9,8 @@ Se tienen una serie de notebooks en los que se presentan ejemplos de:
 - Análisis Discriminante Lineal
 - Clustering Jerárquico y No Jerárquico (K-Means)
 
+Se incluyen además 2 notebooks que ayudan a integrar estas técnicas en análisis predictivos (CdU1.ipynb y CdU2.ipynb)
+
 ## Requirements
 
 ```
