@@ -1,0 +1,6 @@
+scikit-learn
+statsmodels
+factor_analyzer
+fanalysis
+seaborn
+jupyterlab

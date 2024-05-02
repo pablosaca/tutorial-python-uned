@@ -1,0 +1,9 @@
+db_name: "proyecto_uned"
+tables:
+  data: "marketing_data"
+  model_data: "train_data"
+  pred_data: "test_data"
+  predictions: "pred_data"
+filters:
+  train_test_data: {"col": "Year_Birth", "threshold": 1980}
+
